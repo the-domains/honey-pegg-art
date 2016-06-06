@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Honey Pegg Art]]></title>
         <description><![CDATA[Honey Pegg Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/honey-pegg-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 18:28:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 18:29:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/honey-pegg-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8687f0b7-90e9-4389-923d-82bac181f502.jpg">]]></description>
+            <link>https://thegrid.ai/honey-pegg-art/446cb48e-7443-41f6-9ff5-239a75b3675f/index.html</link>
+            <guid isPermaLink="false">446cb48e-7443-41f6-9ff5-239a75b3675f</guid>
+            <pubDate>Mon, 06 Jun 2016 18:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/943c0d49-5261-4845-ab5b-2cee6f17ac27.jpg">]]></description>
+            <link>https://thegrid.ai/honey-pegg-art/04382287-006f-411f-ae74-8128b436d47c/index.html</link>
+            <guid isPermaLink="false">04382287-006f-411f-ae74-8128b436d47c</guid>
+            <pubDate>Mon, 06 Jun 2016 18:29:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/247950cf-0f42-4cca-b07a-75c829624532.gif">]]></description>
-            <link>undefined3c4620f5-5663-40f5-ad6f-6201fcf8afda/index.html</link>
+            <link>https://thegrid.ai/honey-pegg-art/3c4620f5-5663-40f5-ad6f-6201fcf8afda/index.html</link>
             <guid isPermaLink="false">3c4620f5-5663-40f5-ad6f-6201fcf8afda</guid>
             <pubDate>Mon, 06 Jun 2016 18:28:55 GMT</pubDate>
         </item>
